@@ -1,4 +1,4 @@
-#Duopen  
+Duopen  
 ======
 ![Duopen](http://i.imgur.com/eEsEd0V.png)  
 OS X에서 하나의 프로그램을 동시에 여러 개 실행하는 앱
