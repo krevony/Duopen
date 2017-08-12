@@ -7,6 +7,7 @@ OS X에서 하나의 프로그램을 동시에 여러 개 실행하는 앱
 프로그램을 떨군 횟수 만큼 화면에 창을 띄워주고 개별적으로 사용할 수 있게 됩니다. 창 뿐만 아니라 독 막대, 메뉴 막대 아이콘도 실행 횟수 만큼 증가합니다.
 
 ## Credit
+By [Krazyeom](http://www.appilogue.kr/2844542)
 App icon by [krevony](http://krevony.github.io)
 
 http://macnews.tistory.com/2562
