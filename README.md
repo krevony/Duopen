@@ -1,6 +1,6 @@
 #Duopen  
 ======
-![Duopen](http://imgur.com/a/AGS70)
+![Duopen](http://imgur.com/eEsEd0V)
 OS X에서 하나의 프로그램을 동시에 여러 개 실행하는 앱
 
 ## How to  
